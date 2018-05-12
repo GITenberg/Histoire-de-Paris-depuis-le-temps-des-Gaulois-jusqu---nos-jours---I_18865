@@ -1,0 +1,33 @@
+_repo: Histoire-de-Paris-depuis-le-temps-des-Gaulois-jusqu---nos-jours---I_18865
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lavallée, Théophile
+    aliases:
+    - Lavallée, Théophile Sébastien
+    - Lavallee, Theophile Sebastien
+    birthdate: 1804
+    deathdate: 1865
+    gutenberg_agent_id: '8207'
+    url: http://www.gutenberg.org/2009/agents/8207
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- FR Villes
+- France
+gutenberg_issued: '2006-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18865'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- History'
+- !lcc 'DC'
+title: Histoire de Paris depuis le temps des Gaulois jusqu'à nos jours - I
+url: http://www.gutenberg.org/ebooks/18865
